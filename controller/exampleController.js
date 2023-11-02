@@ -10,5 +10,7 @@ exampleController.index = async(req,res) => {
     })
 }
 
+
+
 module.exports = exampleController
 
